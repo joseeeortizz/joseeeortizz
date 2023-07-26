@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E8YD1k5j2K1G1ScaLH-JJbt4XjJElkyn/view](https://drive.google.com/file/d/1E8YD1k5j2K1G1ScaLH-JJbt4XjJElkyn/view)
 
-- ⚡ Fun fact **I love records & watches**
+- ⚡ Fun fact **I love vinyl records & watches**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
