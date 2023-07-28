@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseeeortizz&label=Profile%20views&color=0e75b6&style=flat" alt="joseeeortizz" /> </p>
 
-- 🌱 I’m currently learning **Google Cybersecurity Professional Certification**
+- 🌱 I’m currently learning **Google Cybersecurity Professional Certificate**
 
-- 👨‍💻 All of my projects are available at [https://joseeeortizz.github.io/#](https://joseeeortizz.github.io/#)
+- 👨‍💻 All of my projects are available at [https://joseeeortizz.com](https://joseeeortizz.github.io/#)
 
 - 📫 How to reach me **joseortizv.nyc@gmail.com**
 
