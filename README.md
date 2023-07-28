@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Google Cybersecurity Professional Certificate**
 
-- 👨‍💻 All of my projects are available at [https://joseeeortizz.com](https://joseeeortizz.github.io/#)
+- 👨‍💻 All of my projects are available at [www.joseeeortizz.com](https://joseeeortizz.github.io/#)
 
 - 📫 How to reach me **joseortizv.nyc@gmail.com**
 
