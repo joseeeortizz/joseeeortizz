@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **joseortizv.nyc@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/drive/folders/1mT1fnmV5gD-65reu8vMba_k8J5mgo-b-?usp=share_link)]([https://drive.google.com/file/d/1E8YD1k5j2K1G1ScaLH-JJbt4XjJElkyn/view](https://drive.google.com/drive/folders/1mT1fnmV5gD-65reu8vMba_k8J5mgo-b-?usp=share_link))
-
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1mneAQW6N1oVGGsKNk1YtTRPKNi5QX1Ip/view?usp=share_link)
 - ⚡ Fun fact **I love vinyl records & watches**
 
 <h3 align="left">Connect with me:</h3>
