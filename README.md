@@ -5,12 +5,12 @@
 
 - 🌱 I’m currently learning **Google IT Support Certificate**
 
-- 👨‍💻 All of my projects are available at [**www.joseeeortizz.com**](https://joseeeortizz.github.io/#)
+- 👨‍💻 All of my projects are available at [**joseeeortizz.com**](https://joseeeortizz.github.io/#)
 
 - 📫 How to reach me **joseortizv.nyc@gmail.com**
 
 - 📄 Know about my experiences: [**Resume**](https://joseeeortizz.com/Resume.html)
-- ⚡ Fun fact **I love timepieces & travelling.**
+- ⚡ Fun fact **I love hiking and timepieces.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
