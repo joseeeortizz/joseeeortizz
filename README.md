@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **joseortizv.nyc@gmail.com**
 
-- 📄 Know about my experiences: [**Resume**](https://joseeeortizz.com/Resume.html)
+- 📄 Know about my experiences: [**Resume**](https://joseeeortizz.com/resume.html)
 - ⚡ Fun fact: **I love hiking and timepieces.**
 
 <h3 align="left">Languages and Tools:</h3>
