@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseeeortizz&label=Profile%20views&color=0e75b6&style=flat" alt="joseeeortizz" /> </p>
 
-- 🌱 I’m currently learning: **UNIX Programming & Computer Architecture**
+- 🌱 I’m currently learning: **Parallel Computing & Computer Architecture**
 
 - 👨‍💻 All of my projects are available @ [**joseeeortizz.com**](https://joseeeortizz.github.io/#)
 
