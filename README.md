@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Ortiz</h1>
-<h3 align="center">I'm  Computer Science Student @ Hunter College CUNY, with a keen interest in technology and its transformative potential. I'm dedicated to expanding my knowledge and skills in various aspects of computer science. I thrive on challenges and am always eager to explore new opportunities in the world of technology.</h3>
+<h3 align="center">I’m a Computer Science student at Hunter College CUNY, passionate about technology and its transformative potential. I’m committed to continuously expanding my knowledge and skills in various computer science areas. I relish challenges and eagerly seek new opportunities to explore the dynamic world of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseeeortizz&label=Profile%20views&color=0e75b6&style=flat" alt="joseeeortizz" /> </p>
 
