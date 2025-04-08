@@ -17,6 +17,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+stopping+by+!;Moji)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+stopping+by+!)](https://git.io/typing-svg)
 
 </p>
