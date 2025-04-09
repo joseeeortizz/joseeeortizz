@@ -1,6 +1,6 @@
 
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=30&duration=4600&pause=10&color=00F701&center=true&vCenter=true&width=435&lines=Hey!+%F0%9F%91%8B+I'm+Jose." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=30&duration=4600&pause=10&color=00F701&center=true&width=435&lines=Hey!+%F0%9F%91%8B+I'm+Jose." alt="Typing SVG" /></a>
 
 <h3 align="center">A Computer Science student at Hunter College CUNY, passionate about technology and its transformative potential. I’m committed to continuously expanding my knowledge and skills in various computer science areas. I enjoy challenges and eagerly seek new opportunities to explore the dynamic world of technology.</h3>
 
