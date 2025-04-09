@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+👋+,+I'm+Jose.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/color=B9F72CFF?lines=Hey!+👋+,+I'm+Jose.;)](https://git.io/typing-svg)
 
 <h3 align="center">A Computer Science student at Hunter College CUNY, passionate about technology and its transformative potential. I’m committed to continuously expanding my knowledge and skills in various computer science areas. I enjoy challenges and eagerly seek new opportunities to explore the dynamic world of technology.</h3>
 
