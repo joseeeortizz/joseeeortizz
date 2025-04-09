@@ -1,7 +1,7 @@
 <h1 align="center">Hey!👋, I'm Jose.</h1>
 <h3 align="center">A Computer Science student at Hunter College CUNY, passionate about technology and its transformative potential. I’m committed to continuously expanding my knowledge and skills in various computer science areas. I enjoy challenges and eagerly seek new opportunities to explore the dynamic world of technology.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CHey!+👋+,+I'm+Jose.;)](https://git.io/typing-svg)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseeeortizz&label=Profile%20views&color=0e75b6&style=flat" alt="joseeeortizz" /> </p>
