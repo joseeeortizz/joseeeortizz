@@ -3,7 +3,7 @@
   <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=30&duration=4600&pause=10&color=2E67D3&center=true&width=435&lines=Hey!+%F0%9F%91%8B+I'm+Jose." alt="Typing SVG" /></a>
   
-  A Computer Science student at Hunter College CUNY, passionate about technology and its transformative potential. I’m committed to continuously expanding my knowledge and skills in various computer science areas. I enjoy challenges and eagerly seek new opportunities to explore the dynamic world of technology.</h3>
+  A Computer Science student, passionate about technology and its transformative potential. I’m committed to continuously expanding my knowledge and skills in various computer science areas. I enjoy challenges and eagerly seek new opportunities to explore the dynamic world of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseeeortizz&label=Profile%20views&color=0e75b6&style=flat" alt="joseeeortizz" /> </p>
 
