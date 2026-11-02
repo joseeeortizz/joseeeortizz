@@ -1,9 +1,8 @@
-
 <h3 align="center">
   <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=30&duration=4600&pause=10&color=2E67D3&center=true&width=435&lines=Hey!+%F0%9F%91%8B+I'm+jo." alt="Typing SVG" /></a>
   
-  Computer Science student, passionate about technology and its transformative potential. Committed to continuously expanding knowledge and skills in various computer science areas.</h3>
+Passionate about technology and its transformative potential. Committed to continuously expanding knowledge and skills in various computer science areas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseeeortizz&label=Profile%20views&color=0e75b6&style=flat" alt="joseeeortizz" /> </p>
 
